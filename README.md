@@ -10,3 +10,4 @@ That is why taking inspiration from nature itself, the landing page follows a li
 4.Lucide icons
 
 #Depolyment link
+https://visionary-biscotti-10b3a4.netlify.app
